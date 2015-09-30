@@ -30,5 +30,4 @@ public class Music {
 	public String toString() {
 		return "Music [title=" + title + ", singer=" + singer + "]";
 	}
-	
 }
